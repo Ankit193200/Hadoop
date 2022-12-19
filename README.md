@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
+<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
 
 # Open Terminal and execute the codes below
 
@@ -77,8 +77,8 @@ hadoop fs -cp /hadoop-user/trees.csv /hadoop-user2
 
 ## URL to view data in UI:
 
-Name Node - <your_app_name>.ineuron.app:9870
+Name Node - <your_app_name>.pwskills.app:9870
 
-Data Node - <your_app_name>.ineuron.app:9864
+Data Node - <your_app_name>.pwskills.app:9864
 
-Hadoop Clutser - <your_app_name>.ineuron.app:8088/cluster
+Hadoop Clutser - <your_app_name>.pwskills.app:8088/cluster
